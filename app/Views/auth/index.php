@@ -19,20 +19,20 @@
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="Player_Name">Player Name</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Photo</a>
+        <a class="nav-link" href="Photo">Photo</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">About</a>
-          <a class="dropdown-item" href="#">Log Out</a>
+          <a class="dropdown-item" href="about">About</a>
+          <a class="dropdown-item" href="login">Log Out</a>
         </div>
       </li>
     </ul>
@@ -41,7 +41,7 @@
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container text-center">
-  <img src="https://lh3.googleusercontent.com/proxy/XBMIfuj4Wcz-1SUTdMy288mRCnUA2xPvkbgWRVQzN1gBTnx817pe1a8TFmhbiH7c3dSl5DxpmG7xVaakhXbTuodAdiyXTeDwv66VrqDjRWP6jx4X5s7hgCMk5hAEtiTT829pE1wtRsaWIWwknA" width="350">
+  <img src="https://images.vexels.com/media/users/3/130643/isolated/preview/c1af6c8c2a4d1df1456fd8d034d697b7-golden-states-warriors-logo-by-vexels.png" width="350">
     <h1 class="display-4">Golden State Wariors</h1>
     <p class="lead">San Fransisco, California</p>
   </div>

@@ -33,7 +33,6 @@ $routes->setAutoRoute(true);
 $routes->match(['get', 'post'], '/auth/login', 'Auth::login');
 $routes->match(['get', 'post'], '/auth/register', 'Auth::register');
 
-
 /**
  * --------------------------------------------------------------------
  * Additional Routing
